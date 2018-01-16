@@ -1,0 +1,5 @@
+tensorflow==1.4.0
+numpy==1.13.3
+xlrd==1.1.0
+utils==0.9.0
+
